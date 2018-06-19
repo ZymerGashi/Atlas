@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Atlasi</string>
+    <string name="title_activity_progress">ProgressActivity</string>
+
+    <string name="title_activity_alarm_is_set">alarmIsSet</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="list_items">
+        <item>Simptoma</item>
+        <item>Kokëdhimbje</item>
+        <item>Dhimbje</item>
+        <item>Gjakderdhje</item>
+        <item>Djersitje</item>
+        <item>Entje</item>
+        <item>Skuqje e shputës</item>
+        <item>Vjellje</item>
+        <item>Barkqitje</item>
+        <item>Shfaqja e halucinacioneve</item>
+        <item>Marramendje</item>
+        <item>Gjakderdhje nga veshi</item>
+        <item>Halucinacione</item>
+        <item>Dhimbje ne fytyre</item>
+        <item>Probleme me frymëmarrje</item>
+        <item>Probleme me balancin dhe koordinim</item>
+        <item>Dhimbje të qafës</item>
+        <item>Ethe</item>
+        <item>Plogështi</item>
+        <item>Dhimbje të shpinës</item>
+        <item>Gulcim</item>
+        <item>Djersitje natën</item>
+        <item>Dhimbje gjoksi</item>
+        <item>Skuqje e lëkurës</item>
+        <item>Dhimbje krahu</item>
+        <item>Impotencë</item>
+        <item>Lodhje</item>
+        <item>Puls të dobët</item>
+        <item>Dëmtim i thonjëve</item>
+        <item>Humbje e kujtesës</item>
+        <item>Humbje e vetëdijes</item>
+        <item>Pagjumësi</item>
+        <item>Gjumë i tepruar</item>
+        <item>Urinim i shpeshtë</item>
+        <item>Shtypje e ulët e gjakut</item>
+        <item>Shtypje e lartë e gjakut</item>
+        <item>Dhimbje e syve</item>
+        <item>Vështirësi në ecje</item>
+        <item>Dhimbje e muskujve</item>
+        <item>Mungesë e oreksit</item>
+        <item>Sekrecion i hundëve</item>
+        <item>Ndryshim në sjellje</item>
+        <item>Dhimbje fyti</item>
+        <item>Probleme me gëlltitje</item>
+        <item>Dhimbje në gju</item>
+        <item>Ngurtësi në qafë</item>
+        <item>skuqje të syve</item>
+        <item>Paaftësi për të mbyllur sytë</item>
+        <item>Mpirje të krahëve</item>
+        <item>Kollë e thatë</item>
+        <item>Kollë</item>
+        <item>Pështymë me ngjyrë gjaku</item>
+
+    </string-array>
+</resources>
